@@ -1,2 +1,6 @@
 This is File2 Added in Main Branch
+<<<<<<< HEAD
 This is change added in Dev2 branch
+=======
+This is change added in Dev1 Branch
+>>>>>>> Dev1
